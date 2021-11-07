@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/teamdeebo/article-preview-component)
-- Live Site URL: [Live](https://teamdeebo.github.io/article-preview-component/)
+- Solution URL: [Github](https://github.com/teamdeebo/article-preview-component-master)
+- Live Site URL: [Live](https://teamdeebo.github.io/article-preview-component-master/)
 
 ## My process
 
